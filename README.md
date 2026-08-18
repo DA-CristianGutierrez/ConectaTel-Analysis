@@ -13,7 +13,7 @@ Los datasets `users`, `plans` y `usage`  incluyen mas de 40.000 registros de ser
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DA-CristianGutierrez/ConectaTel-Analysis/blob/main/S7%20Version-Estudiante-Project-ConnectaTel_VF.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eiQcGNNIXGwAsCvasjMGrtJwpm_pWcSu?usp=sharing)
 
 O:
 
