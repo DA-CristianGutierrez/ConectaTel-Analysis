@@ -28,10 +28,7 @@ O:
 
 ## 🧠 Objetivo del análisis
 
-- Identificar problemas de calidad de datos
-- Aplicar conceptos de limpieza y manejo de tipos de missing dates
-- Analizar comportamientos, distribuciones y outliers
-- Generar insights para presentar reporte al área que solicita el analisis"
+Identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
 ## Análisis de una empresa de telecomunicaciones
 
