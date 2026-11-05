@@ -56,13 +56,13 @@ Metodología:
 
 
 ## Visualizaciones destacadas
-4.	Diagrama de plan por edad de usuario: Observamos una visualización de cantidad de usuarios por edad e incluimos una segmentación por tipo de plan. Existe una distribución organizada de acuerdo con los rangos de edad y descartamos outliers aquí.  
+1.	Diagrama de plan por edad de usuario: Observamos una visualización de cantidad de usuarios por edad e incluimos una segmentación por tipo de plan. Existe una distribución organizada de acuerdo con los rangos de edad y descartamos outliers aquí.  
 
 <img width="572" height="455" alt="image" src="https://github.com/user-attachments/assets/71c13bb9-d889-42a6-8e16-1ec693426688" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-5.	Gráfico de distribución por tipo de usuario: De acuerdo con el resultado, los usuarios adultos (entre 30 y 59 años) concentran la mayor cantidad de uso de servicios seguido de los adultos mayores (mayores de 60 años) y finalmente de los jovenes (menos de 30 años). El rango de diferencia es casi asimétrico entre cada escala.
+2.	Gráfico de distribución por tipo de usuario: De acuerdo con el resultado, los usuarios adultos (entre 30 y 59 años) concentran la mayor cantidad de uso de servicios seguido de los adultos mayores (mayores de 60 años) y finalmente de los jovenes (menos de 30 años). El rango de diferencia es casi asimétrico entre cada escala.
 
 <img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/e876caab-6ec6-4b59-b407-de2c96da014e" />
 
