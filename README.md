@@ -26,16 +26,17 @@ O:
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
-## 🧠 Objetivo del análisis
-
-Identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
 ## Análisis de una empresa de telecomunicaciones
 
 En este proyecto identifiqué patrones de uso, detecté comportamientos atípicos y comprendí qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario. Mediante python y pandas, realicé el cruce de fuentes entre planes, clientes y uso de los servicios. A continuación, revisamos cifras estadísticas entre planes y detectamos outliers para evitar sesgos en el análisis. Finalmente construí segmentaciones por cliente para analizar los usos de servicios de acuerdo con cada grupo.
 
+## 🧠 Objetivo del análisis
 
-Metodología:
+Identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
+
+
+## Metodología:
 -	Procesamiento de datos: se limpiaron y estandarizaron los datos, transformando tipos de datos a formato fecha, imputación de sentinels y valores imposibles.
 -	Clasificación de missing data: Se determinó en que grupo de datos faltantes encajaron las columnas con esta novedad para determinar su tratamiento.
 -	Unión de tablas: Se unieron las tablas usuarios y uso de servicios tabla para proceder con la visualización y análisis de los datos obtenidos.
