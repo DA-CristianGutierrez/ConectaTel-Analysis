@@ -1,7 +1,5 @@
 # ConectaTel-Analysis
 
-Este repositorio contiene el análisis realizado durante el Sprint 6 del caso EverPeak–SilverBasket.
-
 Los datasets `users`, `plans` y `usage`  incluyen mas de 40.000 registros de servicios moviles, información de usuarios y planes móviles, los cuales contienen valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales de la empresa.
 
 ## 📂 Contenido del repositorio
