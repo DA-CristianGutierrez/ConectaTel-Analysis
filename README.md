@@ -27,7 +27,7 @@ O:
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
 
-## Análisis de una empresa de telecomunicaciones
+## Resumen
 
 En este proyecto identifiqué patrones de uso, detecté comportamientos atípicos y comprendí qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario. Mediante python y pandas, realicé el cruce de fuentes entre planes, clientes y uso de los servicios. A continuación, revisamos cifras estadísticas entre planes y detectamos outliers para evitar sesgos en el análisis. Finalmente construí segmentaciones por cliente para analizar los usos de servicios de acuerdo con cada grupo.
 
